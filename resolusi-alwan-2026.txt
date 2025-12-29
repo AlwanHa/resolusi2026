@@ -1,8 +1,8 @@
 RESOLUSI PRIBADI TAHUN 2026
 - Konsisten untuk melatih skill data science (terutama koding dan analitycal business)
-- Konsisten memperdalam skill Excel
 - Konsisten membangun portofolio sebagai data science, data entry dan web developer
 - Konsisten mencari intern atau loker (part atau full time)
+- Konsisten mulai belajar skill Excel from basic - advance
 
 PENJELASAN RENCANA (MISI YANG HARUS DILAKUKAN)
 
@@ -10,12 +10,11 @@ A. Koding & Analytical
 - Skill koding dilatih dengan mengerjakan project datsci mandiri dari awal sampai akhir
 - Skill analytical thinking dilatih dengan coba membuat tujuan ngerjain project sampai output yang dihasilkan seperti apa? (dengan bantuan chatGPT)
 
-B. Skill Excel
-- Coba mulai belajar dari tutor di YT
-
-C. Membangun Portofolio 
+B. Membangun Portofolio 
 - Coba cari-cari informasi mengenai "cara membuat porto untuk datsci, dat ent dan webdev"
 
-D. Loker / Intern
+C. Loker / Intern
 - Cari role model tentang dunia kerjaan yg diinginkan and find "how to get there 'instantly'?" 
 
+D. Skill Excel
+- Coba mulai belajar dari tutor di YT, coba cari yang serial biar belajarnya bisa dari 1 tutor dulu jadi gak bingung
